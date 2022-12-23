@@ -1,4 +1,4 @@
-# Selected Readings in Neuromorphic Computing:
+# Selected Readings in Neuromorphic Computing
 ## Papers:
 ## Books:
 ## Talks:
