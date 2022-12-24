@@ -1,5 +1,7 @@
 # Selected Readings in Neuromorphic Computing
 ## Papers:
+### Modeling:
+1. Iakymchuk, Taras, et al. "Simplified spiking neural network architecture and STDP learning algorithm applied to image classification." EURASIP Journal on Image and Video Processing 2015.1 (2015): 1-11.
 ## Books:
 ## Talks:
 1. [Dan Goodman: Cosyne 2022 Tutorial on Spiking Neural Networks - Part 1/2 [2022]](https://youtu.be/GTXTQ_sOxak)
