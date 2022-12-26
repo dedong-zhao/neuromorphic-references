@@ -1,9 +1,9 @@
 # Selected Readings in Neuromorphic Computing
 ## Papers:
 ### Modeling:
-1. [Eshraghian, Jason K., et al. "Training spiking neural networks using lessons from deep learning." arXiv preprint arXiv:2109.12894 (2021).](https://arxiv.org/abs/2109.12894) 
-2. [Iakymchuk, Taras, et al. "Simplified spiking neural network architecture and STDP learning algorithm applied to image classification." EURASIP Journal on Image and Video Processing 2015.1 (2015): 1-11.](https://link.springer.com/content/pdf/10.1186/s13640-015-0059-4.pdf?pdf=button)
+1. [Iakymchuk, Taras, et al. "Simplified spiking neural network architecture and STDP learning algorithm applied to image classification." EURASIP Journal on Image and Video Processing 2015.1 (2015): 1-11.](https://link.springer.com/content/pdf/10.1186/s13640-015-0059-4.pdf?pdf=button)
 ### Learning:
+2. [Eshraghian, Jason K., et al. "Training spiking neural networks using lessons from deep learning." arXiv preprint arXiv:2109.12894 (2021).](https://arxiv.org/abs/2109.12894) 
 3. [Song, Sen, Kenneth D. Miller, and Larry F. Abbott. "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity." Nature neuroscience 3.9 (2000): 919-926.](https://www.nature.com/articles/nn0900_919)
 ## Books:
 ## Talks:
