@@ -6,6 +6,7 @@
 2. [Eshraghian, Jason K., et al. "Training spiking neural networks using lessons from deep learning." arXiv preprint arXiv:2109.12894 (2021).](https://arxiv.org/abs/2109.12894) 
 3. [Song, Sen, Kenneth D. Miller, and Larry F. Abbott. "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity." Nature neuroscience 3.9 (2000): 919-926.](https://www.nature.com/articles/nn0900_919)
 ## Books:
+1. [Dayan, Peter, and Laurence F. Abbott. Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press, 2005.](https://drive.google.com/file/d/0B9bX852JMJ__YTYzNWQ0ZmItYmU0MS00NjZmLTk1MTYtZTQ0ZDVlNDMxMDJj/view?resourcekey=0-VbLeRG9RwR4WHuVI5sA1PQ)
 ## Talks:
 1. [Dan Goodman: Cosyne 2022 Tutorial on Spiking Neural Networks - Part 1/2 [2022]](https://youtu.be/GTXTQ_sOxak)
 2. [Dan Goodman: Cosyne 2022 Tutorial on Spiking Neural Networks - part 2/2 [2022]](https://youtu.be/rfck_p0JrIc)
