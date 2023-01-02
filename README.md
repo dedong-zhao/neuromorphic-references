@@ -3,8 +3,10 @@
 ### Modeling:
 1. [Iakymchuk, Taras, et al. "Simplified spiking neural network architecture and STDP learning algorithm applied to image classification." EURASIP Journal on Image and Video Processing 2015.1 (2015): 1-11.](https://link.springer.com/content/pdf/10.1186/s13640-015-0059-4.pdf?pdf=button)
 ### Learning:
-2. [Eshraghian, Jason K., et al. "Training spiking neural networks using lessons from deep learning." arXiv preprint arXiv:2109.12894 (2021).](https://arxiv.org/abs/2109.12894) 
-3. [Song, Sen, Kenneth D. Miller, and Larry F. Abbott. "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity." Nature neuroscience 3.9 (2000): 919-926.](https://www.nature.com/articles/nn0900_919)
+2. [Song, Sen, Kenneth D. Miller, and Larry F. Abbott. "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity." Nature neuroscience 3.9 (2000): 919-926.](https://www.nature.com/articles/nn0900_919)
+### Threshold Adaptation:
+3. [Fontaine, Bertrand, José Luis Peña, and Romain Brette. "Spike-threshold adaptation predicted by membrane potential dynamics in vivo." PLoS computational biology 10.4 (2014): e1003560.](https://pdfs.semanticscholar.org/340a/c2872b94a2146e081225908197127dd8bd77.pdf)
+
 ## Books:
 1. [Dayan, Peter, and Laurence F. Abbott. Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press, 2005.](https://drive.google.com/file/d/0B9bX852JMJ__YTYzNWQ0ZmItYmU0MS00NjZmLTk1MTYtZTQ0ZDVlNDMxMDJj/view?resourcekey=0-VbLeRG9RwR4WHuVI5sA1PQ)
 ## Talks:
