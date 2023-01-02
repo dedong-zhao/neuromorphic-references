@@ -5,8 +5,10 @@
 ### Hebbian Learning:
 2. [Song, Sen, Kenneth D. Miller, and Larry F. Abbott. "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity." Nature neuroscience 3.9 (2000): 919-926.](https://www.nature.com/articles/nn0900_919)
 ### Spiking Threshold:
-3. [Fontaine, Bertrand, José Luis Peña, and Romain Brette. "Spike-threshold adaptation predicted by membrane potential dynamics in vivo." PLoS computational biology 10.4 (2014): e1003560.](https://pdfs.semanticscholar.org/340a/c2872b94a2146e081225908197127dd8bd77.pdf)
-4. [Azouz, Rony, and Charles M. Gray. "Adaptive coincidence detection and dynamic gain control in visual cortical neurons in vivo." Neuron 37.3 (2003): 513-523.](https://core.ac.uk/download/pdf/82395083.pdf)
+3. [Jones, Douglas L., Erik C. Johnson, and Rama Ratnam. "A stimulus-dependent spike threshold is an optimal neural coder." Frontiers in computational neuroscience 9 (2015): 61.](https://core.ac.uk/download/pdf/82859441.pdf)
+4. [Fontaine, Bertrand, José Luis Peña, and Romain Brette. "Spike-threshold adaptation predicted by membrane potential dynamics in vivo." PLoS computational biology 10.4 (2014): e1003560.](https://pdfs.semanticscholar.org/340a/c2872b94a2146e081225908197127dd8bd77.pdf)
+5. [Azouz, Rony, and Charles M. Gray. "Adaptive coincidence detection and dynamic gain control in visual cortical neurons in vivo." Neuron 37.3 (2003): 513-523.](https://core.ac.uk/download/pdf/82395083.pdf)
+
 ## Books:
 1. [Dayan, Peter, and Laurence F. Abbott. Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press, 2005.](https://drive.google.com/file/d/0B9bX852JMJ__YTYzNWQ0ZmItYmU0MS00NjZmLTk1MTYtZTQ0ZDVlNDMxMDJj/view?resourcekey=0-VbLeRG9RwR4WHuVI5sA1PQ)
 ## Talks:
