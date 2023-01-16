@@ -12,7 +12,7 @@
 7. [Chacron, Maurice J., Khashayar Pakdaman, and André Longtin. "Interspike interval correlations, memory, adaptation, and refractoriness in a leaky integrate-and-fire model with threshold fatigue." Neural computation 15.2 (2003): 253-278.](http://www.medicine.mcgill.ca/physio/chacronlab/publications/2003_chacron_neuralcomp.pdf)
 
 ## Books:
-### LIF Neuron:
+### LIF Neuron(Spiking Rate Adaptation, Absolute/Relative Refractory Period):
 1. [Dayan, Peter, and Laurence F. Abbott. Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press, 2005.](https://drive.google.com/file/d/0B9bX852JMJ__YTYzNWQ0ZmItYmU0MS00NjZmLTk1MTYtZTQ0ZDVlNDMxMDJj/view?resourcekey=0-VbLeRG9RwR4WHuVI5sA1PQ)
 ## Talks:
 1. [Dan Goodman: Cosyne 2022 Tutorial on Spiking Neural Networks - Part 1/2 [2022]](https://youtu.be/GTXTQ_sOxak)
