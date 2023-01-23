@@ -3,8 +3,9 @@
 ### SNN Modeling:
 1. [Eshraghian, Jason K., et al. "Training spiking neural networks using lessons from deep learning." arXiv preprint arXiv:2109.12894 (2021).](https://arxiv.org/pdf/2109.12894.pdf)
 2. [Diehl, Peter U., and Matthew Cook. "Unsupervised learning of digit recognition using spike-timing-dependent plasticity." Frontiers in computational neuroscience 9 (2015): 99.](https://www.frontiersin.org/articles/10.3389/fncom.2015.00099/full)
-### Hebbian Learning:
-1. [Song, Sen, Kenneth D. Miller, and Larry F. Abbott. "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity." Nature neuroscience 3.9 (2000): 919-926.](https://www.nature.com/articles/nn0900_919)
+### STDP Learning:
+1. [Bi, Guo-qiang, and Mu-ming Poo. "Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type." Journal of neuroscience 18.24 (1998): 10464-10472.](https://www.jneurosci.org/content/jneuro/18/24/10464.full.pdf)
+2. [Song, Sen, Kenneth D. Miller, and Larry F. Abbott. "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity." Nature neuroscience 3.9 (2000): 919-926.](https://www.nature.com/articles/nn0900_919)
 ### Spiking Threshold:
 1. [Jones, Douglas L., Erik C. Johnson, and Rama Ratnam. "A stimulus-dependent spike threshold is an optimal neural coder." Frontiers in computational neuroscience 9 (2015): 61.](https://core.ac.uk/download/pdf/82859441.pdf)
 2. [Fontaine, Bertrand, José Luis Peña, and Romain Brette. "Spike-threshold adaptation predicted by membrane potential dynamics in vivo." PLoS computational biology 10.4 (2014): e1003560.](https://pdfs.semanticscholar.org/340a/c2872b94a2146e081225908197127dd8bd77.pdf)
