@@ -6,7 +6,7 @@
 ### STDP Learning:
 1. [Bi, Guo-qiang, and Mu-ming Poo. "Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type." Journal of neuroscience 18.24 (1998): 10464-10472.](https://www.jneurosci.org/content/jneuro/18/24/10464.full.pdf)
 2. [Song, Sen, Kenneth D. Miller, and Larry F. Abbott. "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity." Nature neuroscience 3.9 (2000): 919-926.](https://www.nature.com/articles/nn0900_919)
-### Winner-Take-All
+### WTA:
 1. [Coultrip, Robert, Richard Granger, and Gary Lynch. "A cortical model of winner-take-all competition via lateral inhibition." Neural networks 5.1 (1992): 47-54.](https://www.researchgate.net/profile/Richard-Granger/publication/222066408_A_cortical_model_of_winner-take-all_competition_via_lateral_inhibition/links/5e0f58c7a6fdcc2837550904/A-cortical-model-of-winner-take-all-competition-via-lateral-inhibition.pdf)
 ### Spiking Threshold:
 1. [Jones, Douglas L., Erik C. Johnson, and Rama Ratnam. "A stimulus-dependent spike threshold is an optimal neural coder." Frontiers in computational neuroscience 9 (2015): 61.](https://core.ac.uk/download/pdf/82859441.pdf)
