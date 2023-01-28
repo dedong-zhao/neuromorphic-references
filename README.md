@@ -9,6 +9,8 @@
 ### WTA:
 1. [Coultrip, Robert, Richard Granger, and Gary Lynch. "A cortical model of winner-take-all competition via lateral inhibition." Neural networks 5.1 (1992): 47-54.](https://www.researchgate.net/profile/Richard-Granger/publication/222066408_A_cortical_model_of_winner-take-all_competition_via_lateral_inhibition/links/5e0f58c7a6fdcc2837550904/A-cortical-model-of-winner-take-all-competition-via-lateral-inhibition.pdf)
 ### Spiking Threshold:
+1. [Brandman, Relly, and Mark E. Nelson. "A simple model of long-term spike train regularization." Neural computation 14.7 (2002): 1575-1597.](http://nelson.beckman.illinois.edu/pubs/Brandman_Nelson02.pdf)
+
 1. [Jones, Douglas L., Erik C. Johnson, and Rama Ratnam. "A stimulus-dependent spike threshold is an optimal neural coder." Frontiers in computational neuroscience 9 (2015): 61.](https://core.ac.uk/download/pdf/82859441.pdf)
 2. [Fontaine, Bertrand, José Luis Peña, and Romain Brette. "Spike-threshold adaptation predicted by membrane potential dynamics in vivo." PLoS computational biology 10.4 (2014): e1003560.](https://pdfs.semanticscholar.org/340a/c2872b94a2146e081225908197127dd8bd77.pdf)
 3. [Kobayashi, Ryota, Yasuhiro Tsubo, and Shigeru Shinomoto. "Made-to-order spiking neuron model equipped with a multi-timescale adaptive threshold." Frontiers in computational neuroscience 3 (2009): 9.](https://www.researchgate.net/profile/Ryota-Kobayashi-6/publication/26730292_Made-to-Order_Spiking_Neuron_Model_Equipped_with_a_Multi-Timescale_Adaptive_Threshold/links/09e4150762a5324a93000000/Made-to-Order-Spiking-Neuron-Model-Equipped-with-a-Multi-Timescale-Adaptive-Threshold.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
