@@ -10,6 +10,9 @@
 1. [Coultrip, Robert, Richard Granger, and Gary Lynch. "A cortical model of winner-take-all competition via lateral inhibition." Neural networks 5.1 (1992): 47-54.](https://www.researchgate.net/profile/Richard-Granger/publication/222066408_A_cortical_model_of_winner-take-all_competition_via_lateral_inhibition/links/5e0f58c7a6fdcc2837550904/A-cortical-model-of-winner-take-all-competition-via-lateral-inhibition.pdf)
 ### Spiking Threshold:
 1. [Brandman, Relly, and Mark E. Nelson. "A simple model of long-term spike train regularization." Neural computation 14.7 (2002): 1575-1597.](http://nelson.beckman.illinois.edu/pubs/Brandman_Nelson02.pdf)
+### Neuromorphic Chip:
+1. [Akopyan, Filipp, et al. "Truenorth: Design and tool flow of a 65 mw 1 million neuron programmable neurosynaptic chip." IEEE transactions on computer-aided design of integrated circuits and systems 34.10 (2015): 1537-1557.](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Akopyan2015.pdf)
+2. [Davies, Mike, et al. "Loihi: A neuromorphic manycore processor with on-chip learning." Ieee Micro 38.1 (2018): 82-99.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8259423&casa_token=lC7yFeUtNxEAAAAA:6M7DALvOP0yGMpufJncb1tBt9xFZ6KHxG7T_jY1sqDWp-xzI2klnmlDMflJW5Q1kKi_ZQo_4uF5MYg&tag=1)
 ## Books:
 ### LIF Neuron Modeling(Spiking Rate Adaptation, Absolute/Relative Refractory Period):
 1. [Dayan, Peter, and Laurence F. Abbott. Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press, 2005.](https://drive.google.com/file/d/0B9bX852JMJ__YTYzNWQ0ZmItYmU0MS00NjZmLTk1MTYtZTQ0ZDVlNDMxMDJj/view?resourcekey=0-VbLeRG9RwR4WHuVI5sA1PQ)
