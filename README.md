@@ -1,6 +1,6 @@
 # Selected Readings in Neuromorphic Computing
 ## Papers:
-### Algorithms
+### Algorithms:
 #### SNN Modeling:
 1. [Eshraghian, Jason K., et al. "Training spiking neural networks using lessons from deep learning." arXiv preprint arXiv:2109.12894 (2021).](https://arxiv.org/pdf/2109.12894.pdf)
 2. [Diehl, Peter U., and Matthew Cook. "Unsupervised learning of digit recognition using spike-timing-dependent plasticity." Frontiers in computational neuroscience 9 (2015): 99.](https://www.frontiersin.org/articles/10.3389/fncom.2015.00099/full)
