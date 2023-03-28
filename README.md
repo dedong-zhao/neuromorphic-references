@@ -26,6 +26,7 @@
 5. [Chris Eliasmith: Spiking Neural Networks for More Efficient AI Algorithms [2020]](https://youtu.be/PeW-TN3P1hk)
 6. [Geoffrey Hinton: What is Wrong with Convolutional Neural Nets?[2017]](https://youtu.be/Jv1VDdI4vy4)
 ## Workshops:
-1. [Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2023/home)
-2. [The CapoCaccia Workshops toward Neuromorphic Intelligence](https://capocaccia.cc/en/event/ccnw23/landing-page/)
-3. [The Intel Neuromorphic Research Community Workshop](https://intel-ncl.atlassian.net/wiki/spaces/INRC/pages/1828388865/Fall+2022+INRC+Workshop)
+1. [Telluride: Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2023/home)
+2. [SNUFA: Spiking Networks as Universal Function Approximators](http://snufa.net/2022/)
+3. [CCNW: The CapoCaccia Workshops toward Neuromorphic Intelligence](https://capocaccia.cc/en/event/ccnw23/landing-page/)
+4. [INRC: The Intel Neuromorphic Research Community Workshop](https://intel-ncl.atlassian.net/wiki/spaces/INRC/pages/1828388865/Fall+2022+INRC+Workshop)
