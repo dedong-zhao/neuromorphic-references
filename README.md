@@ -25,3 +25,7 @@
 4. [Jason Eshraghian: Training Spiking Neural Networks Using Lessons From Deep Learning [2021]](https://youtu.be/zldal7b7sJ4)
 5. [Chris Eliasmith: Spiking Neural Networks for More Efficient AI Algorithms [2020]](https://youtu.be/PeW-TN3P1hk)
 6. [Geoffrey Hinton: What is Wrong with Convolutional Neural Nets?[2017]](https://youtu.be/Jv1VDdI4vy4)
+## Workshops:
+1. [Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2023/home)
+2. [The CapoCaccia Workshops toward Neuromorphic Intelligence](https://capocaccia.cc/en/event/ccnw23/landing-page/)
+3. [The Intel Neuromorphic Research Community Workshop](https://intel-ncl.atlassian.net/wiki/spaces/INRC/pages/1828388865/Fall+2022+INRC+Workshop)
