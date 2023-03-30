@@ -1,4 +1,4 @@
-# Selected Readings in Neuromorphic Computing
+# Selected References in Neuromorphic Computing
 ## Papers:
 #### Algorithms:
 1. [SNN Modeling][Eshraghian, Jason K., et al. "Training spiking neural networks using lessons from deep learning." arXiv preprint arXiv:2109.12894 (2021).](https://arxiv.org/pdf/2109.12894.pdf)
